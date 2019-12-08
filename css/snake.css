@@ -1,0 +1,15 @@
+body {
+	background-image: url("gamemachine.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-position: center;
+	background-color: aqua;
+  }
+
+canvas {
+	position: fixed;
+	top: 26.5%;
+  	left: 49%;
+ 	/* bring your own prefixes */
+ 	transform: translate(-50%, -50%);
+}
